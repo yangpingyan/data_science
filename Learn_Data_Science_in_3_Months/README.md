@@ -28,14 +28,23 @@ This is the Curriculum for [Learn Data Science in 3 Months](https://youtu.be/9rD
 
 ## Week 2 - Statistics & Probability
 [KhanAcademy](https://www.khanacademy.org/math/statistics-probability) :
-- 均值mean：测量集中趋势
+- 均值mean：测量集中趋势central tendency
 - 中值median：测量集中趋势的另一种方式
 - 众数mode：出现频率最多的数
 - 极差range：最大值 - 最小值； 测量紧密程度
 - 中程数midrange：最大值+最小值的平均值； 测量集中趋势的另一种方式
+- 方差variance： 数据集中度
+- 标准差stand deviation: 方差的开根号， 与原数据同样的单位
 - 条形图bar、
 - 线型图： 趋势
-- 饼图pie： 每月业绩占整年比例
+- 饼图pie： 比例
+- 茎叶图stem-and-leaf：
+- 箱型图： 分布
+
+#### 统计分类：
+- 描述Descriptive
+- 推论Inferential
+
 
 ## Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis
 - EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis
