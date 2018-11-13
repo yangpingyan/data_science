@@ -4,9 +4,6 @@
 
 This is the Curriculum for [Learn Data Science in 3 Months](https://youtu.be/9rDhY1P3YLA) by Siraj Raval on Youtube. After completing this course, start applying for jobs, doing contract work, start your own data science consulting group, or just keep on learning. Remember to believe in your ability to learn. You can learn data science, you will learn data science, and if you stick to it, eventually you will master it. 
 
-## Find a study buddy
-Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.com) channel to find one. 
-
 #### Components
 - 3 Projects 
 - 1 Weekly assignment. Pick 1 from the course for each week, do it in a weekend. 
@@ -25,12 +22,20 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 
 # Month 1 - Data Analysis
 
-## Week 1 - Learn Python
+## Week 1 - Learn Python (Done)
 - EdX https://www.edx.org/course/introduction-python-data-science-2
 - Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
 
 ## Week 2 - Statistics & Probability
-- KhanAcademy https://www.khanacademy.org/math/statistics-probability
+[KhanAcademy](https://www.khanacademy.org/math/statistics-probability) :
+- 均值mean：测量集中趋势
+- 中值median：测量集中趋势的另一种方式
+- 众数mode：出现频率最多的数
+- 极差range：最大值 - 最小值； 测量紧密程度
+- 中程数midrange：最大值+最小值的平均值； 测量集中趋势的另一种方式
+- 条形图bar、
+- 线型图： 趋势
+- 饼图pie： 每月业绩占整年比例
 
 ## Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis
 - EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis
